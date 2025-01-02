@@ -1,3 +1,5 @@
+[![Emmanuel's Github stats](https://github-readme-stats.vercel.app/api/wakatime?tethcode=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @tethcode
 - 👀 I’m interested in WEB DEVELOPMENT AND SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning JAVASCRIPT, DJANGO AND FLASK
