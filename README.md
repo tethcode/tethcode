@@ -31,8 +31,7 @@
 
 ## 📊 GitHub Stats
 
-[![Top Langs](![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=tethcode&layout=compact&theme=radical&cache_seconds=86400](https://github-readme-stats.vercel.app/api/top-langs/?username=tethcode&layout=compact&theme=radical))
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tethcode)]
 
 ---
 
