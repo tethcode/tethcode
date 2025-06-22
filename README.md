@@ -28,6 +28,8 @@ alt="Typing SVG" /></a>
   
 </p>
 </div>
+
+
 ## 💡 About Me
 
 - 👨‍💻 Passionate **Web & Software Developer**
@@ -42,7 +44,6 @@ alt="Typing SVG" /></a>
 
 ---
 
-## 🧰 Tech Stack
 
 ## 🛠️ Tech Stack
 
