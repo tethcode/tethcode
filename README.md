@@ -2,10 +2,9 @@
   <h1 style="color: #008afa;">👋 Hello, I'm Emmanuel</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&width=600&lines=Frontend+%7C+Backend+%7C+Fullstack+Developer;React+%2B+Django+Builder;Always+Learning+%26+Shipping;Let's+Build+Something+Epic+💻🔥"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+There%2C+I'm+TethCode!;Frontend+%7C+Backend+%7C+Fullstack+Developer;React+%2B+Django+Builder;Always+Learning+%26+Shipping;Let's+Build+Something+Epic+💻🔥"
        alt="Typing SVG" />
 </a>
-
 
 <p>
   <a href="https://github.com/tethcode">
