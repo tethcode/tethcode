@@ -25,7 +25,7 @@
 ## ⚙️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,netlify,vercel,railway,selenium" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,netlify,vercel,selenium" />
 </p>
 
 
