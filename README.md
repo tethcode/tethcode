@@ -1,49 +1,49 @@
-# 👋 Hello there, I'm TethCode!
+# 👋 Hello there, I'm **TethCode**
 
 ## 💡 About Me
 
-- 👨‍💻 I’m a passionate **Web and Software Developer**
-- 🌱 Currently diving deep into **React.js** and **Django**
-- 👀 Exploring everything from **frontend creativity** to **backend logic**
-- 💞️ Open to collaborate on **Web Development**, **Automation Projects**, and anything cool with code
+- 👨‍💻 Passionate **Web & Software Developer**
+- 🌱 Currently diving deep into **React.js** + **Django**
+- 🎨 From frontend creativity to backend logic — I build full-stack magic
+- 🤝 Open to collaborations in **Web Dev**, **APIs**, **Automation**, and cool experimental stuff
 - 📫 Reach me at:
-  - 📧 Email: [tethcode@gmail.com](mailto:tethcode@gmail.com)
-  - 🌐 Facebook: [My Profile](https://www.facebook.com/profile.php?id=61560838653409)
+  - 📧 [tethcode@gmail.com](mailto:tethcode@gmail.com)
+  - 🌐 [Facebook](https://www.facebook.com/profile.php?id=61560838653409)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I’m kind-hearted, passionate, and love turning ideas into digital reality 💫
+- ⚡ Fun fact: I’m kind-hearted, vibe-heavy, and love turning ideas into digital reality ✨
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
 **Languages & Frameworks:**
-- HTML, CSS, JavaScript
-- Python, Django
-- React.js (learning and building)
+- HTML, CSS, JavaScript  
+- Python, Django  
+- React.js (actively learning & building)  
 - Bootstrap, Tailwind CSS
 
 **Tools & Platforms:**
-- Git & GitHub
-- VS Code
+- Git & GitHub  
+- VS Code  
 - Replit, Netlify, Vercel, Render, Railway
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api?username=tethcode&theme=algolia&hide_border=false&count_private=true)
+![GitHub Stats](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api%3Fusername%3Dtethcode%26theme%3Dalgolia%26hide_border%3Dfalse%26count_private%3Dtrue)
 
-![](https://images.weserv.nl/?url=streak-stats.demolab.com/?user=tethcode&theme=dark&hide_border=false)
+![GitHub Streak](https://images.weserv.nl/?url=streak-stats.demolab.com%2F%3Fuser%3Dtethcode%26theme%3Ddark%26hide_border%3Dfalse)
 
-![](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api/top-langs/?username=tethcode&theme=algolia&hide_border=false&count_private=true&layout=compact)
+![Top Languages](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtethcode%26theme%3Dalgolia%26hide_border%3Dfalse%26layout%3Dcompact)
 
 ---
 
 ## 🤝 Let's Connect & Build!
 
-> Whether you're into frontend, backend, or just hacking fun stuff together, hit me up!  
-> I'm always up to collaborate, learn new things, and grow with the dev community. 🚀
+> Whether you're into frontend, backend, or just hacking fun stuff together — **hit me up!**  
+> I’m always down to learn, collaborate, and grow with the dev community. 🚀
 
 ---
 
-_Keep building. Keep vibing. The code never stops_ 💻🔥
+### _Keep building. Keep vibing. The code never stops._ 💻🔥
