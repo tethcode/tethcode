@@ -31,7 +31,11 @@
 
 ## 📊 GitHub Stats
 
-[![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tethcode)]
+![](https://github-readme-stats.vercel.app/api?username=tethcode&theme=algolia&hide_border=false&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=tethcode&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tethcode&theme=algolia&hide_border=false&count_private=true&layout=compact)
 
 ---
 
