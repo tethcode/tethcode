@@ -1,7 +1,10 @@
 <div align="center">
   <h1 style="color: #008afa;">👋 Hello, I'm Emmanuel</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&width=600&lines=Hi%2C+There%21+I%27m+TethCode;Frontend+%7C+Backend+%7C+Fullstack+Developer;React+%2B+Django+Builder;Always+Learning+%26+Shipping;Let%27s+Build+Something+Epic+%F0%9F%92%BB%F0%9F%94%A5)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=008AFA&background=193549&center=true&vCenter=true&width=500&lines=Full-stack+Web+Developer;React+%2B+Django+Enthusiast;Always+Learning+Something+New"
+  alt="Typing SVG" />
+</a>
 
 
 
