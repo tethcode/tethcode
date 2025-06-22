@@ -31,11 +31,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api%3Fusername%3Dtethcode%26theme%3Dalgolia%26hide_border%3Dfalse%26count_private%3Dtrue)
+![](https://github-readme-stats.vercel.app/api?username=tethcode&theme=algolia&hide_border=false&count_private=true)
 
-![GitHub Streak](https://images.weserv.nl/?url=streak-stats.demolab.com%2F%3Fuser%3Dtethcode%26theme%3Ddark%26hide_border%3Dfalse)
+![](https://streak-stats.demolab.com/?user=tethcode&theme=dark&hide_border=false)
 
-![Top Languages](https://images.weserv.nl/?url=github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtethcode%26theme%3Dalgolia%26hide_border%3Dfalse%26layout%3Dcompact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tethcode&theme=algolia&hide_border=false&count_private=true&layout=compact)
 
 ---
 
